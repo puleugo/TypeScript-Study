@@ -1,6 +1,2 @@
-import { init, exit } from 'myPackage';
-init({
-    url: 'true',
-});
-exit(1);
-localStorage; // Ctrl+Click
+import { init } from 'myPackage';
+init();
